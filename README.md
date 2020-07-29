@@ -1,6 +1,7 @@
 # Darkmode-inator
 ## Tested Unity Versions:
--Unity 2020.1.0f1
+* Unity 2020.1.0f1
+* Unity 2019.4.5f1
 
 ## How to use:
 1. Download the latest Release: https://github.com/EobanZ/Darkmodeinator/releases
