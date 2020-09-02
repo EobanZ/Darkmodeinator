@@ -1,5 +1,8 @@
+# DARK-SKIN CAN NOW BE ENABLED UNDER PREFERECEN IN THE EDITOR!!
+
 # Darkmode-inator
 ## Tested Unity Versions:
+* In newer versions you can change the skin in free Unity under preference settings
 * Unity 2020.1.0f1
 * Unity 2019.4.5f1
 
